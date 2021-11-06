@@ -1,6 +1,6 @@
 {
-  "name": "package1-yu",
-  "version": "0.0.3",
+  "name": "package1-yu-i",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "package2-yu": "^0.0.3"
+    "package2-yu-i": "^1.0.0"
   }
 }
